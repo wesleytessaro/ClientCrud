@@ -1,5 +1,6 @@
 # ClientCrud
-Spring Boot - CRUD 
+## Spring Boot - CRUD 
+### Diagrama
 ![alt text](https://raw.githubusercontent.com/wesleytessaro/ClientCrud/main/diagrama.png)
 
 # Busca de cliente por id
