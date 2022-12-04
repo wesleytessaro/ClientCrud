@@ -2,10 +2,10 @@
 Spring Boot - CRUD 
 ![alt text](https://raw.githubusercontent.com/wesleytessaro/ClientCrud/main/diagrama.png)
 
-Busca de cliente por id
+# Busca de cliente por id
 GET /clients/1
 
-Inserção de novo cliente
+# Inserção de novo cliente
 POST /clients
 {
   "name": "Wesley And",
@@ -15,7 +15,7 @@ POST /clients
   "children": 2
 }
 
-Atualização de cliente
+# Atualização de cliente
 PUT /clients/1
 {
   "name": "Wesley Andrade",
@@ -25,6 +25,6 @@ PUT /clients/1
   "children": 2
 }
 
-Deleção de cliente
+# Deleção de cliente
 DELETE /clients/1
 
